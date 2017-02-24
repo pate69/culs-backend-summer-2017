@@ -8,6 +8,7 @@
 * M. Nivardo Villanueva Duran
 
 [Project Repo](https://github.com/linkshift/culs-backend-summer-2017)
+[Apiary](http://docs.test12512.apiary.io)
 
 # Group 2
 * Andres Botero
